@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "A Model Context Protocol server for mysql server",
   "author": "actstorm",
-  "private": true,
   "type": "module",
   "bin": {
     "mysql-server": "./build/index.js"

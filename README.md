@@ -156,6 +156,3 @@ To work on the server code:
     npm run inspector 
     ```
 
-## License
-
-(This project is currently private - `private: true` in package.json. Add license info here if it becomes public.)
